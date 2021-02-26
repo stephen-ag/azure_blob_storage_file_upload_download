@@ -1,0 +1,6 @@
+#Config yaml
+
+azure_storeage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=stephenaipy;AccountKey=Tsptjs6Bk1xLQPOriEFXXgmVnrgXSVYHID03HGWzs/00n8SQP18VnWTFnzVZ2Y7c+wqLo+L2Smjegp60qki9kQ==;EndpointSuffix=core.windows.net"
+video_container_name: "videos"
+pictures_container_name: "pictures"
+source_folder: "/home/gerald"
